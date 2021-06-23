@@ -1,4 +1,4 @@
-# 01-Pynata_Website
+# Git Exercise Playground
 
 Hi man
 Byebye
