@@ -1,6 +1,6 @@
 # Git Exercise Playground
 
-Hi man
+Hello
 Byebye
 Hello aGain
 To one who see this
